@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(#C2DED1 , #ECE5C7 , #CDC2AE , #354259);
+    height: 100vh;
+    position: relative;
+}
+.contaner{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.cont{
+    border-radius: 30px;
+    background: linear-gradient(#E9D5CA , #827397 , #4D4C7D , #363062);
+    position: absolute;
+    top: 20%;
+    width: 50%;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;  
+    padding: 30px 0 ;
+    border-bottom: 2px solid #354259;
+    border-top: 2px solid #CDC2AE;
+    border-left: 2px solid #ECE5C7;
+    border-right: 2px solid #C2DED1;
+    box-shadow: 5px 5px 15px ;
+    
+}
+.cont h1  {
+    color: #C2DED1;
+    font-size: 50px;
+    font-weight: 800;
+}
+.cont p{
+    color: #CDC2AE;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 10px;
+}
+.cont img{
+    width: 200px;
+    border-radius: 50%;
+    border-bottom: 2px solid #354259;
+    border-top: 2px solid #CDC2AE;
+    border-left: 2px solid #ECE5C7;
+    border-right: 2px solid #C2DED1;
+    padding-top: 10px;
+}
+
+.cont button{
+    width: 5%;
+    background-color: #827397;
+    padding: 5px;
+}
+.but1{
+    border-radius: 30px;
+    background: linear-gradient(#92B4EC , #FFFFFF , #FFE69A , #FFD24C);
+    position: absolute;
+    top: 20%;
+    width: 50%;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;  
+    padding: 30px 0 ;
+    border-bottom: 2px solid #354259;
+    border-top: 2px solid #CDC2AE;
+    border-left: 2px solid #ECE5C7;
+    border-right: 2px solid #C2DED1;
+    box-shadow: 5px 5px 15px ;
+    color: black;
+}
+.but1 h1 {
+    color: #242F9B;
+    font-size: 50px;
+    font-weight: 800;
+}
+.but1 p{
+    color: #3C2C3E;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 10px;
+}
+.but2{
+    border-radius: 30px;
+    background: linear-gradient(#68A7AD , #99C4C8 , #E5CB9F , #EEE4AB);
+    position: absolute;
+    top: 20%;
+    width: 50%;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;  
+    padding: 30px 0 ;
+    border-bottom: 2px solid #354259;
+    border-top: 2px solid #CDC2AE;
+    border-left: 2px solid #ECE5C7;
+    border-right: 2px solid #C2DED1;
+    box-shadow: 5px 5px 15px ;
+    color: black;
+}
+.but3{
+    border-radius: 30px;
+    background: linear-gradient(#5F7161 , #6D8B74 , #EFEAD8 , #D0C9C0);
+    position: absolute;
+    top: 20%;
+    width: 50%;
+    height: 380px;
+    margin-left: auto;
+    margin-right: auto;  
+    padding: 30px 0 ;
+    border-bottom: 2px solid #354259;
+    border-top: 2px solid #CDC2AE;
+    border-left: 2px solid #ECE5C7;
+    border-right: 2px solid #C2DED1;
+    box-shadow: 5px 5px 15px ;
+    color: black;
+}
